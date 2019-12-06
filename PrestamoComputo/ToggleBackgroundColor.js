@@ -1,5 +1,5 @@
 
-alert("Perfect!");
+
 var button = document.querySelector("button");
 var isColored = false;
 
